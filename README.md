@@ -6,4 +6,4 @@
 
 첫 만남 : [https://souce.tistory.com/745](https://ehpub.co.kr/%ec%b2%ab-%eb%a7%8c%eb%82%a8-%eb%a8%b8%ec%8b%9c%eb%9f%ac%eb%8b%9d-with-%ed%8c%8c%ec%9d%b4%ec%8d%ac/)https://ehpub.co.kr/%ec%b2%ab-%eb%a7%8c%eb%82%a8-%eb%a8%b8%ec%8b%9c%eb%9f%ac%eb%8b%9d-with-%ed%8c%8c%ec%9d%b4%ec%8d%ac/
 
-회귀 : https://ehclub.net/746
+회귀 : https://ehpub.co.kr/%ed%9a%8c%ea%b7%80-%eb%a8%b8%ec%8b%9c%eb%9f%ac%eb%8b%9d-with-%ed%8c%8c%ec%9d%b4%ec%8d%ac/
