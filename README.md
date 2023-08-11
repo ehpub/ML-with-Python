@@ -8,3 +8,5 @@
 회귀 : https://ehpub.co.kr/%ed%9a%8c%ea%b7%80-%eb%a8%b8%ec%8b%9c%eb%9f%ac%eb%8b%9d-with-%ed%8c%8c%ec%9d%b4%ec%8d%ac/
 
 회귀 모델 평가 도구: https://ehpub.co.kr/%ed%9a%8c%ea%b7%80-%eb%aa%a8%eb%8d%b8-%ed%8f%89%ea%b0%80-%eb%8f%84%ea%b5%ac-%eb%a8%b8%ec%8b%a0%eb%9f%ac%eb%8b%9d-with-%ed%8c%8c%ec%9d%b4%ec%8d%ac/
+
+선형 회귀 모델과 경사하강법: https://ehpub.co.kr/%ec%84%a0%ed%98%95-%ed%9a%8c%ea%b7%80-%eb%aa%a8%eb%8d%b8%ea%b3%bc-%ea%b2%bd%ec%82%ac%ed%95%98%ea%b0%95%eb%b2%95-%eb%a8%b8%ec%8b%a0%eb%9f%ac%eb%8b%9d-with-%ed%8c%8c%ec%9d%b4%ec%8d%ac/
