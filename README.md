@@ -13,4 +13,4 @@
 
 다항 회귀(Polynomial Regression): https://ehpub.co.kr/%eb%8b%a4%ed%95%ad-%ed%9a%8c%ea%b7%80polynomial-regression-%eb%a8%b8%ec%8b%a0%eb%9f%ac%eb%8b%9d-with-%ed%8c%8c%ec%9d%b4%ec%8d%ac/
 
-선형 모델 규제(리지, 라쏘, 엘라스틱 넷) : https://ehpub.co.kr/%ec%84%a0%ed%98%95-%eb%aa%a8%eb%8d%b8-%ea%b7%9c%ec%a0%9c-%eb%a6%ac%ec%a7%80-%eb%9d%bc%ec%8f%98-%ec%97%98%eb%9d%bc%ec%8a%a4%ed%8b%b1-%eb%84%b7-%eb%a8%b8%ec%8b%a0%eb%9f%ac%eb%8b%9d-with/
+선형 모델 규제(라쏘, 리지, 엘라스틱 넷) : https://ehpub.co.kr/%ec%84%a0%ed%98%95-%eb%aa%a8%eb%8d%b8-%ea%b7%9c%ec%a0%9c-%eb%a6%ac%ec%a7%80-%eb%9d%bc%ec%8f%98-%ec%97%98%eb%9d%bc%ec%8a%a4%ed%8b%b1-%eb%84%b7-%eb%a8%b8%ec%8b%a0%eb%9f%ac%eb%8b%9d-with/
