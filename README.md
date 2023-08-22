@@ -19,3 +19,6 @@
 
 softmax 이진 분류 모델로 다중 분류 모델 만들기: https://ehpub.co.kr/softmax-%ec%9d%b4%ec%a7%84-%eb%b6%84%eb%a5%98-%eb%aa%a8%eb%8d%b8%eb%a1%9c-%eb%8b%a4%ec%a4%91-%eb%b6%84%eb%a5%98-%eb%aa%a8%eb%8d%b8-%eb%a7%8c%eb%93%a4%ea%b8%b0-%eb%a8%b8%ec%8b%a0%eb%9f%ac/
 
+분류 모델 평가 도구 : https://ehpub.co.kr/%eb%b6%84%eb%a5%98-%eb%aa%a8%eb%8d%b8-%ed%8f%89%ea%b0%80-%eb%8f%84%ea%b5%ac-%eb%a8%b8%ec%8b%a0%eb%9f%ac%eb%8b%9d-with-%ed%8c%8c%ec%9d%b4%ec%8d%ac/
+
+
