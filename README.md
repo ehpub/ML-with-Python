@@ -23,3 +23,6 @@ softmax 이진 분류 모델로 다중 분류 모델 만들기: https://ehpub.co
 
 Binarizer로 recall과 precision 조절하기 : https://ehpub.co.kr/binarizer%eb%a1%9c-recall%ea%b3%bc-precision-%ec%a1%b0%ec%a0%88%ed%95%98%ea%b8%b0-%eb%a8%b8%ec%8b%a0%eb%9f%ac%eb%8b%9d-with-python/
 
+KNN (K Nearest Neighbor) K 최근접 이웃 : https://ehpub.co.kr/knn-k-nearest-neighbor-k-%ec%b5%9c%ea%b7%bc%ec%a0%91-%ec%9d%b4-%eb%a8%b8%ec%8b%a0%eb%9f%ac%eb%8b%9d-with-python/
+
+
